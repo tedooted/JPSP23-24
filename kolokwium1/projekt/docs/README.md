@@ -1,3 +1,22 @@
-mkdir nowa_struktura
-cd nowa_struktura
-touch struktura.txt
+Struktura plików:
+projekt
+    ├── docs
+    │   ├── guide.txt
+    │   └── README.md
+    ├── .env
+    ├── .gitignore
+    ├── src
+    │   ├── .config
+    │   ├── database
+    │   │   └── db_connector.c
+    │   ├── main.c
+    │   ├── module1.c
+    │   └── module1.h
+    └── tests
+        ├── main_test.c
+        ├── test1.c
+        └── test_utils.c
+
+utworzone za pomocą komend:
+-mkdir
+-touch
