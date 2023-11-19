@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
-int main() {
+int main() 
+{
     int n, suma = 0;
 
     printf("Podaj liczbe naturalna n: ");
