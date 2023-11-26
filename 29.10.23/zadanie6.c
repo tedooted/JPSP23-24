@@ -8,11 +8,11 @@ int main()
     scanf("%d",&rok);
      if (rok%4==0)
      {
-        printf("Rok jest przestępny");
+        printf("Rok jest przestępny\n");
      }
      else
      {
-        printf("Rok jest nie przestępny");
+        printf("Rok jest nie przestępny\n");
      }
     return 0;
     

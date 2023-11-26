@@ -17,5 +17,4 @@ int main()
     {
         printf("Większa jest: %d",b);
     }
-
 }
